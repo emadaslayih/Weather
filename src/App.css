@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+button{
+  font-size: large;
+  margin:3%;
+  padding:1%;
+  background-color:rgb(4, 138, 222);
+}

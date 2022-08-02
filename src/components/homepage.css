@@ -1,0 +1,7 @@
+.forecast,.favDiv{
+    border: 1px solid black;
+    width: 25%;
+}
+.forecastDiv,.favMainDiv{
+    display: flex;
+}
